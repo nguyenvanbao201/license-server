@@ -1,0 +1,30 @@
+{
+    "7CE23C2E": {
+        "used": false,
+        "device": "",
+        "time": "",
+        "expire": "2026-07-15T21:45:05.205088",
+        "type": "VIP"
+    },
+    "99A0C2E5": {
+        "used": false,
+        "device": "",
+        "time": "",
+        "expire": "2026-10-13T21:48:20.521113",
+        "type": "ADMIN"
+    },
+    "5034A69D": {
+        "used": false,
+        "device": "",
+        "time": "",
+        "expire": "2026-10-13T21:58:10.095182",
+        "type": "VIP"
+    },
+    "3840EE95": {
+        "used": false,
+        "device": "",
+        "time": "",
+        "expire": "2026-10-13T22:00:17.711804",
+        "type": "VIP"
+    }
+}
