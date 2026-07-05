@@ -6,5 +6,21 @@
         "duration": 90,
         "expire": "2026-10-03T23:08:28.973122",
         "type": "ADMIN"
+    },
+    "A126FD14": {
+        "used": false,
+        "device": "",
+        "time": "",
+        "duration": "never",
+        "expire": "never",
+        "type": "ADMIN"
+    },
+    "C5D735FC": {
+        "used": false,
+        "device": "",
+        "time": "",
+        "duration": 10,
+        "expire": "2026-07-15T23:37:37.406285",
+        "type": "VIP"
     }
 }
