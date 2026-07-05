@@ -1,26 +1,10 @@
 {
-    "FD155EA8": {
-        "used": false,
-        "device": "",
-        "time": "",
-        "duration": 10,
-        "expire": "2026-07-15T22:24:49.825371",
-        "type": "VIP"
-    },
-    "A749C09F": {
+    "6BA58986": {
         "used": false,
         "device": "",
         "time": "",
         "duration": 90,
-        "expire": "2026-10-03T22:25:40.794920",
-        "type": "VIP"
-    },
-    "7101D2A6": {
-        "used": false,
-        "device": "",
-        "time": "",
-        "duration": 10,
-        "expire": "2026-07-15T22:26:08.367342",
+        "expire": "2026-10-03T23:08:28.973122",
         "type": "ADMIN"
     }
 }
