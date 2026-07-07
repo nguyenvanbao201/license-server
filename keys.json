@@ -1,9 +1,42 @@
 {
-    "7D8ED87D": {
-        "device_id": "TEST123",
-        "key_type": "FREE",
-        "duration": 24,
-        "expire": "2026-07-08T15:09:53.697654",
-        "used": false
+    "E6ABB6EC": {
+        "used": false,
+        "device": "",
+        "time": "",
+        "duration": "never",
+        "expire": "never",
+        "type": "ADMIN"
+    },
+    "FA3CCE93": {
+        "used": false,
+        "device": "",
+        "time": "",
+        "duration": 1,
+        "expire": "2026-07-08T15:55:32.187410",
+        "type": "FREE"
+    },
+    "2C58CF1B": {
+        "used": false,
+        "device": "",
+        "time": "",
+        "duration": 1,
+        "expire": "2026-07-08T15:55:55.617463",
+        "type": "FREE"
+    },
+    "B4D57268": {
+        "used": false,
+        "device": "",
+        "time": "",
+        "duration": 1,
+        "expire": "2026-07-08T15:56:43.328441",
+        "type": "FREE"
+    },
+    "BB290D51": {
+        "used": false,
+        "device": "",
+        "time": "",
+        "duration": 1,
+        "expire": "2026-07-08T15:56:57.332033",
+        "type": "FREE"
     }
 }
