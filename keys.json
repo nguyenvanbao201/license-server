@@ -1,26 +1,8 @@
 {
-    "E6ABB6EC": {
+    "VB-7D-123456": {
         "used": false,
         "device": "",
-        "time": "",
-        "duration": "never",
-        "expire": "never",
-        "type": "ADMIN"
-    },
-    "EEA07459": {
-        "used": false,
-        "device": "",
-        "time": "",
-        "duration": 3,
-        "expire": "2026-07-10T22:41:34.036820",
+        "duration": 168,
         "type": "VIP"
-    },
-    "1D6D29C6": {
-        "used": false,
-        "device": "",
-        "time": "",
-        "duration": "never",
-        "expire": "never",
-        "type": "ADMIN"
     }
 }
