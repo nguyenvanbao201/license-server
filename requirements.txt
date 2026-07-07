@@ -1,5 +1,2 @@
-Flask
+flask
 gunicorn
-requests
-pymongo
-python-dotenv
