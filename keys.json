@@ -1,8 +1,38 @@
 {
-    "VB-7D-123456": {
+    "VBTOOL_VIP_1D_A6962994": {
         "used": false,
         "device": "",
-        "duration": 168,
+        "duration": 24,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_FOREVER_D0172C2E": {
+        "used": false,
+        "device": "",
+        "duration": 87600,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_1D_8B5D6181": {
+        "used": false,
+        "device": "",
+        "duration": 24,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_1D_E73B8815": {
+        "used": false,
+        "device": "",
+        "duration": 24,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_1D_56C10A35": {
+        "used": false,
+        "device": "",
+        "duration": 24,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_30D_15E4F333": {
+        "used": false,
+        "device": "",
+        "duration": 720,
         "type": "VIP"
     }
 }
