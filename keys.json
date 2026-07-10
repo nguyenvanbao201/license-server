@@ -34,5 +34,11 @@
         "device": "",
         "duration": 720,
         "type": "VIP"
+    },
+    "VBTOOL_VIP_1H_10B648A6": {
+        "used": false,
+        "device": "",
+        "duration": 1,
+        "type": "VIP"
     }
 }
