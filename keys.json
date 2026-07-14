@@ -1,44 +1,8 @@
 {
-    "VBTOOL_VIP_1D_A6962994": {
+    "VBTOOL_VIP_2H_90B4DD1F": {
         "used": false,
         "device": "",
-        "duration": 24,
-        "type": "VIP"
-    },
-    "VBTOOL_VIP_FOREVER_D0172C2E": {
-        "used": false,
-        "device": "",
-        "duration": 87600,
-        "type": "VIP"
-    },
-    "VBTOOL_VIP_1D_8B5D6181": {
-        "used": false,
-        "device": "",
-        "duration": 24,
-        "type": "VIP"
-    },
-    "VBTOOL_VIP_1D_E73B8815": {
-        "used": false,
-        "device": "",
-        "duration": 24,
-        "type": "VIP"
-    },
-    "VBTOOL_VIP_1D_56C10A35": {
-        "used": false,
-        "device": "",
-        "duration": 24,
-        "type": "VIP"
-    },
-    "VBTOOL_VIP_30D_15E4F333": {
-        "used": false,
-        "device": "",
-        "duration": 720,
-        "type": "VIP"
-    },
-    "VBTOOL_VIP_1H_10B648A6": {
-        "used": false,
-        "device": "",
-        "duration": 1,
+        "duration": 2,
         "type": "VIP"
     }
 }
