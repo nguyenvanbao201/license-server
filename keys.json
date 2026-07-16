@@ -10,5 +10,11 @@
         "device": "",
         "duration": 438000,
         "type": "VIP"
+    },
+    "VBTOOL_VIP_5D_6F102A69": {
+        "used": false,
+        "device": "",
+        "duration": 120,
+        "type": "VIP"
     }
 }
