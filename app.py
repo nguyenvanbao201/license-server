@@ -28,10 +28,16 @@ def home():
 
 @app.route("/api/verify_key", methods=["POST"])
 def verify():
-    data = request.json
+    data = request.json or {}
 
     key = data.get("key")
     device = data.get("device_id")
+
+    if not key:
+        return jsonify({
+            "success": False,
+            "message": "Thiếu key"
+        })
 
     keys = load_keys()
 
@@ -43,16 +49,15 @@ def verify():
 
     info = keys[key]
 
-    if not info["used"]:
-        info["used"] = True
-        info["device"] = device
-        save_keys(keys)
-
-    elif info["device"] != device:
+    if info.get("used", False):
         return jsonify({
             "success": False,
-            "message": "Key đã dùng trên thiết bị khác"
+            "message": "Key đã được sử dụng"
         })
+
+    info["used"] = True
+    info["device"] = device
+    save_keys(keys)
 
     return jsonify({
         "success": True,
@@ -62,4 +67,4 @@ def verify():
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
