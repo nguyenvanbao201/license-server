@@ -1,8 +1,8 @@
 {
-    "VBTOOL_VIP_1D_52N3LQ11": {
+    "VBTOOL_VIP_1D_ZAN3LQ11": {
         "used": false,
         "device": "",
-        "duration": 0.1,
+        "duration": 24,
         "type": "VIP"
     },
     "VBTOOL_VIP_7D_AP20SVQA": {
@@ -35,10 +35,10 @@
         "duration": 720,
         "type": "VIP"
     },
-    "VBTOOL_VIP_10Y_BB661206": {
+    "VBTOOL_VIP_1H_MA161206": {
         "used": false,
         "device": "",
-        "duration": 87600,
+        "duration": 1,
         "type": "VIP"
     }
 }
