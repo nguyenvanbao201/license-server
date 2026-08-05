@@ -35,10 +35,10 @@
         "duration": 720,
         "type": "VIP"
     },
-    "VBTOOL_VIP_15D_MA16120Z": {
+    "VBTOOL_VIP_14D_MA16120Z": {
         "used": false,
         "device": "",
-        "duration": 360,
+        "duration": 336,
         "type": "VIP"
     },
     "VBTOOL_VIP_3D_AD5AFAD9": {
@@ -98,7 +98,7 @@
     "VBTOOL_VIP_14D_AF8CD555": {
         "used": false,
         "device": "",
-        "duration": 360,
+        "duration": 336,
         "type": "VIP"
     }
 }
