@@ -40,5 +40,65 @@
         "device": "",
         "duration": 1,
         "type": "VIP"
+    },
+    "VBTOOL_VIP_3D_AD5AFAD9": {
+        "used": false,
+        "device": "",
+        "duration": 72,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_2H_EA810A1D": {
+        "used": false,
+        "device": "",
+        "duration": 2,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_7D_E638FBA5": {
+        "used": false,
+        "device": "",
+        "duration": 168,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_2H_41BE5F0F": {
+        "used": false,
+        "device": "",
+        "duration": 2,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_30D_3A7997BE": {
+        "used": false,
+        "device": "",
+        "duration": 720,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_30D_A12F9BD6": {
+        "used": false,
+        "device": "",
+        "duration": 720,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_2H_2A13DCDA": {
+        "used": false,
+        "device": "",
+        "duration": 2,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_1Y_AC279B78": {
+        "used": false,
+        "device": "",
+        "duration": 8760,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_3D_62607F1B": {
+        "used": false,
+        "device": "",
+        "duration": 72,
+        "type": "VIP"
+    },
+    "VBTOOL_VIP_15D_AF8CD555": {
+        "used": false,
+        "device": "",
+        "duration": 360,
+        "type": "VIP"
     }
 }
