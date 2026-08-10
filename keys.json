@@ -1,8 +1,8 @@
 {
-    "VBTOOL_VIP_3D_APQ201PA": {
+    "VBTOOL_VIP_2D_APQ201PA": {
         "used": false,
         "device": "",
-        "duration": 72,
+        "duration": 48,
         "type": "VIP"
     },
     "VBTOOL_VIP_7D_AP20SVQA": {
