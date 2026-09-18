@@ -1,6 +1,2 @@
 flask
 gunicorn
-requests
-urllib3
-pytz
-websocket-client
